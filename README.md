@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Nielspuch
 - I’m interested in the fianancial industry and like to code small and private projects for fun
+- I recently started cosing for fun and a friend gave me the idea to share some of our codes here in GitHub.
 - I’m currently learning SQL 
-- You will find some of my collaborative codes with some of my friends from university
+
 
 
 <!---
